@@ -1,4 +1,4 @@
-👋 Hi, I’m @amyasma
+    👋 Hi, I’m ASMA
 
 👀 I’m interested in psycholinguistics, cognitive sciences, and computational linguistics.
 
