@@ -1,9 +1,15 @@
 👋 Hi, I’m @amyasma
+
 👀 I’m interested in psycholinguistics, cognitive sciences, and computational linguistics.
+
 🌱 I’m currently learning about Human Language Technology (HLT) while pursuing my master's degree.
+
 💞️ I’m looking to collaborate on projects involving natural language processing (NLP) and human-computer interaction.
+
 📫 How to reach me: asma1@arizona.edu
+
 😄 Pronouns: She/Her
+
 ⚡ Fun fact: I love cats, movie nights, yummy food, and nature!
 
 <!---
