@@ -2,7 +2,7 @@
 
 👀 I’m interested in syntax, psycholinguistics, cognitive sciences, and computational linguistics.
 
-🌱 I’m currently learning about Human Language Technology (HLT) while pursuing my master's degree.
+🌱 I’m currently pursuing my master's degree in Human Language Technology (HLT).
 
 💞️ I’m looking to collaborate on projects involving natural language processing (NLP) and human-computer interaction.
 
