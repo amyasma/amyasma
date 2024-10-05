@@ -1,6 +1,6 @@
     👋 Hi, I’m ASMA
 
-👀 I’m interested in psycholinguistics, cognitive sciences, and computational linguistics.
+👀 I’m interested in syntax, psycholinguistics, cognitive sciences, and computational linguistics.
 
 🌱 I’m currently learning about Human Language Technology (HLT) while pursuing my master's degree.
 
